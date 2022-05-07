@@ -9,6 +9,10 @@ public class test2 {
 		System.out.println("hello world welcome");
 		System.out.println("welcome to batch 26 in april");
 		System.out.println("bacthc 26");
+		System.out.println("hello world class");
+		System.out.println("welcome to batch 26 april 11");
+		System.out.println("hello world welcome april 26");
+		System.out.println("welcome to batch of april");
 	}
 	
 }
