@@ -8,6 +8,7 @@ public class test2 {
 		System.out.println("welcome to batch 26");
 		System.out.println("hello world welcome");
 		System.out.println("welcome to batch 26 in april");
+		System.out.println("bacthc 26");
 	}
 	
 }
